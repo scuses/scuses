@@ -20,7 +20,7 @@ jobs:
       - name: Generate Snake
         run: |
           npx @snake-evolution/cli@latest generate \
-            -u l0vs \
+            -u scuses \
             -t neon-gamer \
             -o dist/snake.svg
 
