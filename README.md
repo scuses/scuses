@@ -1,5 +1,3 @@
-# Olá! 👋
-
-## Estatísticas
-
-![Snake animation](https://raw.githubusercontent.com/l0vs/l0vs/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/l0vs/l0vs/output/github-contribution-grid-snake-dark.svg" />
+</p>
