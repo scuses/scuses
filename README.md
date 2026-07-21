@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
 </div>
@@ -22,8 +20,8 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-â—ˆ  Class     â†’  Backend / Full-Stack Apprentice
-â—ˆ  Origin    â†’  Brazil ðŸ‡§ðŸ‡·
+• Class     →  Backend / Full-Stack Apprentice
+• Origin    →  Brazil 
 </pre>
 
 </div>
@@ -74,7 +72,7 @@
 <div align="center">
 <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
-<img src="https://streak-stats.demolab.com?user=scuses&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=scuses&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
 <br/>
 
