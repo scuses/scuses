@@ -21,7 +21,7 @@
 
 <pre>
 • Class     →  Backend / Full-Stack Apprentice
-• Origin    →  Brazil 
+• Origin    →  Brazil 🇧🇷
 </pre>
 
 </div>
@@ -52,8 +52,8 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
@@ -70,7 +70,6 @@
 
 ## Statistics
 <div align="center">
-<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=scuses&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
