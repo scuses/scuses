@@ -57,7 +57,7 @@
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
