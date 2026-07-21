@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,7 +17,9 @@ jobs:
         with:
           github_user_name: l0vs
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=#8b5cf6&color_dots=#161b22,#1f2937,#312e81,#4f46e5,#7c3aed
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
